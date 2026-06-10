@@ -1,0 +1,4 @@
+interface:
+  display_name: "IEEE TAI Paper Writing"
+  short_description: "Draft IEEE TAI papers from official templates"
+  default_prompt: "Use $ieee-tai-paper-writing to draft and format my manuscript for IEEE Transactions on Artificial Intelligence."
